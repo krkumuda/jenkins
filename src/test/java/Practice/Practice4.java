@@ -7,6 +7,7 @@ public class Practice4 {
 
 	@Test
 	public void Practic4() {
-		Reporter.log("practice4",true);
+		System.out.println("script-4");
+		//Reporter.log("practice4",true);
 }
 }
